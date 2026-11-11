@@ -5,8 +5,8 @@
 | | |
 |---|---|
 | **Name** | Srisha G Shetty |
-| **Name** | Shreesha U |
 | **USN** | 25BCAR0427 |
+| **Name** | Shreesha U |
 | **USN** | 25BCAR0174  |
 | **Course** | BCA |
 | **Department** | CS & IT |
