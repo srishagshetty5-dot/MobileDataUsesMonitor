@@ -10,7 +10,7 @@
 | **USN** | 25BCAR0174  |
 | **Course** | BCA |
 | **Department** | CS & IT |
-| **Submitted to** | Ramkumar Krishnamurthi |
+| **Submitted to** | Dr. Ramkumar Krishnamurthi |
 
 ## Problem Statement
 
